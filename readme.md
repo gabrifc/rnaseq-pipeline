@@ -1,0 +1,1 @@
+This a collection of scripts that I am using to analyse a rnaseq transcriptome.
